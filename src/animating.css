@@ -1,0 +1,59 @@
+.single-card {
+    animation: slideInUp;
+    animation-duration: 1.5s;
+    animation-iteration-count: 1;
+}
+
+.logo-toolbar {
+    animation: fadeInLeft;
+    animation-duration: 1s;
+}
+.contact-card{
+    animation: fadeIn;
+    animation-duration: 1s;
+}
+#about2 .about-title{
+    animation: fadeIn;
+    animation-duration: 1s;
+}
+#mission > .standard-container > img{
+    animation: fadeInUp;
+    animation-duration: 1s;
+}
+.overlay{
+    animation: slideInRight;
+    animation-duration: 1s;
+}
+.overlay2{
+    /*opacity: 0;*/
+    animation: fadeInRight;
+    animation-duration: 2s;
+}
+.video-abyss{
+    animation: slideInLeft;
+    animation-duration: 1s;
+}
+.abyss-text{
+    animation: fadeIn;
+    animation-duration: 5s;
+}
+.abyss-img-container{
+    animation: fadeInLeft;
+    animation-duration: 1s;
+}
+.abyss-section-text{
+    animation: fadeIn;
+    animation-duration: 4s;
+}
+.first-fish,.second-fish,.right-fish,.pipe1,#abyss-content > img{
+    animation: zoomIn;
+    animation-duration: 2s;
+}
+#about-page .standard-container .justify{
+    animation: fadeIn;
+    animation-duration: 3s;
+}
+.quotation p,.text-main{
+    animation: fadeInUp;
+    animation-duration: 3s;
+}
